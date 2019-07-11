@@ -12,7 +12,7 @@
 //    public void setup() {
 //        klass = new Klass(2);
 //    }
-//
+
 //    @Test
 //    public void should_person_have_name_and_age() throws Exception {
 //        Person person = new Person("Tom", 21);
